@@ -1,5 +1,5 @@
 # Step-by-Step WebGPU Graphics Programming (30) 
-## Create a torus Wireframe
+## Create a 3D Seashell Surface
 
 This is the source code for the 30th part of a series YouTube videos on step-by-step WebGPU graphics programming.
 
